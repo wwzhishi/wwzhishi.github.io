@@ -1119,7 +1119,7 @@ console:
 
 # 51a统计配置
 LA:
-  enable: false
+  enable: true
   ck: 3KM27SP6976twKYg
   LingQueMonitorID: 3KM27SP6976twKYg
 

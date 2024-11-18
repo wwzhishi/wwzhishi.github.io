@@ -1,0 +1,201 @@
+- class_name: 关于页
+  subtitle: 一个爱折腾的小菜鸡
+  avatarImg: https://tuwwzs.pages.dev/file/1729082334918_result_256x256.ico
+  avatarSkills:
+    left:
+      - 📚 不断学习新知者
+      - 🌟 解决问题的明星
+      - 🎨 创意无限的设计者
+      - 🚀 快速迭代的实践家
+    right:
+      - 📞 有效沟通的桥梁
+      - 🌱 生活中的环保倡导者
+      - 🎓 持续成长的学习者
+      - 🌐 全球视野的探索者
+  name: 万物之时
+  description: 是一名 学生、博主、科技爱好者，喜欢分享与热心帮助。
+  aboutsiteTips:
+     tips: 探索
+     title1: 出自
+     title2: 好奇心而 行动
+     word:
+       - 发现
+       - 钻研
+       - 创新
+       - 分享
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+    list:
+    #  - name: Java
+    #   color: "#fff"
+    #   icon: https://bu.dusays.com/2023/04/09/643293b1184e9.jpg
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/09/643293b0f0abe.png
+    # - name: Photoshop
+    #   color: "#4082c3"
+    #   icon: https://bu.dusays.com/2022/12/15/639aa3a5c240e.png
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Webpack
+      color: "#2e3a41"
+      icon: https://bu.dusays.com/2023/04/09/643293b68026c.png
+    - name: Pinia
+      color: "#fff"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/pinia-logo.svg
+    - name: Python
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: Flutter
+      color: "#4499e4"
+      icon: https://bu.dusays.com/2023/04/09/643293b1055c2.png
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png
+    - name: React
+      color: "#222"
+      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://bu.dusays.com/2022/12/15/639aa3a5c251e.png
+    # - name: JS
+    #   color: "#f7cb4f"
+    #   icon: https://bu.dusays.com/2023/04/09/643293b121f02.png
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2022/12/15/639aa3a5c241c.png
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+    # - name: Apifox
+    #   color: "#e65164"
+    #   icon: https://bu.dusays.com/2022/11/19/6378d6458c6b6.png
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: 自学python
+        color: "#357ef5"
+      - desc: 搭建博客和个人主页
+        color: "#357ef5"
+      - desc: 搭建免费图床和云盘
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章归档
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，廊坊
+    background: https://tuwwzs.pages.dev/file/1730015798927_Clip_2024-10-27_15-56-10.png
+    backgroundDark: https://tuwwzs.pages.dev/file/1730015803049_image.png
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2003
+    # selfInfoTips2: 
+    # selfInfoContent2: 
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 大三学生👨‍🎓
+  personalities:
+    author_name: 逻辑学家
+    personality_type: TNPT-A
+    photo_url: https://tuwwzs.pages.dev/file/1730015803049_image.png
+    personality_img: https://tuwwzs.pages.dev/file/1731934114787_TNPT-A.svg
+    name_url: https://www.16personalities.com/ch/intp-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 生活明朗，
+    maxim_bottom: 万物可爱。
+  buff:
+    buff_tips: 特长
+    buff_top: 脑回路新奇的 酸菜鱼
+    buff_bottom: 二次元指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 原神
+    game_uid: "UID: 245659751"
+    game_bg: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: Re：创造主
+        href: https://www.bilibili.com/bangumi/media/md5998/
+        cover: https://tuwwzs.pages.dev/file/1731932901682_3944fe0b84a5763cde6b0573773b89ba86b4321d.jpg@282w_375h.webp
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 小林家的龙女仆
+        href: https://www.bilibili.com/bangumi/media/md5800/
+        cover: https://tuwwzs.pages.dev/file/1731932988462_c72a95c3cae82f58f8fa25facd40960aa2003d26.png@282w_375h.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+      - name: NO GAME NO LIFE 游戏人生
+        href: https://www.bilibili.com/bangumi/media/md184/
+        cover: https://tuwwzs.pages.dev/file/1731933079955_375h.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件、电子游戏、智能家居
+  music:
+    music_tips: 音乐偏好
+    music_title: 周深、小少焱、喊麦、民谣、华语流行
+    music_bg: https://tuwwzs.pages.dev/file/1731932721653_image.png
+    music_link: /music
+  # reward_list:
+  #   - name: 海阔蓝
+  #     amount: 8.8
+  #     datatime: 2023-03-28
+  #   - name: LK66
+  #     amount: 66.6
+  #     datatime: 2023-03-24
+  #   - name: 张时貳
+  #     amount: 6.6
+  #     datatime: 2023-01-22
+  #   - name: ZeroAf
+  #     amount: 9.9
+  #     datatime: 2022-12-14
+  #   - name: LuckyWangXi
+  #     amount: 6.6
+  #     datatime: 2022-12-14
+  #   - name: 刀中日月长
+  #     amount: 10
+  #     datatime: 2022-11-16
+  #   - name: 鹿啵包
+  #     amount: 10
+  #     datatime: 2022-11-08
+  #   - name: 疾速k
+  #     amount: 50
+  #     datatime: 2022-09-20
+  #   - name: 伴舟先生大霖子
+  #     amount: 4.03
+  #     datatime: 2022-10-27
+  #     suffix: 贝壳
+  #   - name: Magica_0x0
+  #     amount: 3.36
+  #     datatime: 2022-10-07
+  #     suffix: 贝壳
+  #   - name: 名字就是要短像这样
+  #     amount: 3.36
+  #     datatime: 2022-08-25
+  #     suffix: 贝壳
+  #   - name: Leviathan520
+  #     amount: 1.34
+  #     datatime: 2022-08-23
+  #     suffix: 贝壳
+  #   - name: 托马斯
+  #     amount: 10
+  #     datatime: 2022-08-19
+  #   - name: 哇是猫猫欸
+  #     amount: 1.34
+  #     datatime: 2022-08-19
+  #     suffix: 贝壳

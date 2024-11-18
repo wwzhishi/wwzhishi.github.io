@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 万物之时
+subtitle: '一个爱折腾的小菜鸡'
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 万物之时
+language: zh-CN  # zh-CN, en
+timezone: 'Asia/Shanghai'
+email: wwzs@proton.me
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://wwzhishi.github.io/hexo/
-root: /hexo/
+url: https://hexo.126330.xyz/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -24,7 +24,7 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: 标签
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
@@ -46,14 +46,14 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
   preprocess: true
-  line_number: true
+  line_number: false
   tab_replace: ''
 
 # Home page setting
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,3 +105,37 @@ deploy:
   type: git
   repo: https://github.com/wwzhishi/hexo.git
   branch: gh-pages
+
+
+# 追番插件
+# https://github.com/HCLonely/hexo-bilibili-bangumi
+bangumi: # 追番设置
+  enable: true
+  source: bili
+  path:
+  vmid: 441476314
+  title: "追番列表"
+  quote: "生命不息，追番不止！"
+  show: 1
+  lazyload: false
+  loading:
+  showMyComment: false
+  pagination: false
+  metaColor:
+  color:
+  webp:
+  progress:
+  extraOrder:
+  proxy:
+    host: "代理host"
+    port: "代理端口"
+  extra_options:
+    top_img: false
+    lazyload:
+      enable: false
+      
+# APlayer
+# https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
+aplayer:
+  meting: true
+  asset_inject: false

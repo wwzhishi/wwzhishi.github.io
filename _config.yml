@@ -139,3 +139,9 @@ bangumi: # 追番设置
 aplayer:
   meting: true
   asset_inject: false
+  
+sitemap:
+  path: sitemap.xml
+  rel: false
+  tags: true
+  categories: true

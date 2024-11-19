@@ -99,8 +99,8 @@
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2003
-    # selfInfoTips2: 
-    # selfInfoContent2: 
+    selfInfoTips2: 来自
+    selfInfoContent2: 河北省承德市
     selfInfoTips3: 现在职业
     selfInfoContent3: 大三学生👨‍🎓
   personalities:
@@ -109,10 +109,11 @@
     photo_url: https://tuwwzs.pages.dev/file/1730015803049_image.png
     personality_img: https://tuwwzs.pages.dev/file/1731934114787_TNPT-A.svg
     name_url: https://www.16personalities.com/ch/intp-%E4%BA%BA%E6%A0%BC
+  
   maxim:
     maxim_tips: 座右铭
-    maxim_top: 生活明朗，
-    maxim_bottom: 万物可爱。
+    maxim_top: 宁鸣而死，
+    maxim_bottom: 不默而生。
   buff:
     buff_tips: 特长
     buff_top: 脑回路新奇的 酸菜鱼

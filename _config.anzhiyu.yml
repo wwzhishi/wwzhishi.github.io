@@ -1259,7 +1259,6 @@ inject:
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
 
   bottom:
-    - <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3KM27SP6976twKYg/quote.js?theme=0&col=true&f=12&badge=icon_0&icon=center"></script>
     # 自定义js
     # - <script src="/js/xxx"></script>
 

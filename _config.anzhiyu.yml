@@ -14,7 +14,11 @@ menu:
      追番页: /bangumis/ || anzhiyu-icon-bilibili
   #   相册集: /album/ || anzhiyu-icon-images
   #   小空调: /air-conditioner/ || anzhiyu-icon-fan
-
+  
+   服务:
+    万物之时云盘: /https://pan.126330.xyz/ || https://tuwwzs.pages.dev/file/1731940929061_云盘上传.svg
+    万物之时图床: /https://1.126330.xyz/ || https://tuwwzs.pages.dev/file/1731941137476_系统工具-图床工具-copy.svg
+    
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
      说说: /talks/ || anzhiyu-icon-lightbulb

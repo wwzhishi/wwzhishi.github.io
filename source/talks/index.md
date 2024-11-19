@@ -1,6 +1,7 @@
 ---
 title: 说说
 date: 2024-11-18 23:31:20
+top_img: false
 type: "talks"
 ---
 <div id="qexot"></div>

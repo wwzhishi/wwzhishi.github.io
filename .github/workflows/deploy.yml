@@ -32,6 +32,7 @@ jobs:
         run: |
           hexo clean
           hexo generate
+          gulp
 
       - name: Configure Git
         run: |

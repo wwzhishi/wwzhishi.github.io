@@ -146,7 +146,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://tuwwzs.pages.dev/file/1729082334918_result_256x256.ico
+favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:

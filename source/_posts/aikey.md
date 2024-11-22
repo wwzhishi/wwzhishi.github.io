@@ -3,11 +3,11 @@ ai: ''
 categories:
 - - 白嫖
 - - 分享
-comments: ''
+comments: true
 copyright_author: ''
 copyright_author_href: ''
 copyright_url: ''
-cover: ''
+cover: https://tuwwzs.pages.dev/file/1732021061730_.png
 date: '2024-11-19T20:09:58.069054+08:00'
 description: ''
 keywords: API Key
@@ -20,7 +20,7 @@ tags:
 title: 免费GPT4资源
 toc: ''
 top_group_index: ''
-updated: '2024-11-19T20:09:59.795+08:00'
+updated: '2024-11-19T20:47:41.779+08:00'
 ---
 # **免费 ChatGPT API 平台推荐**
 
@@ -85,8 +85,6 @@ updated: '2024-11-19T20:09:59.795+08:00'
 - **商业用途**：仅限个人学习与科研使用。
 - **滥用 API KEY**：如发现滥用，API 将被封禁。
 - **模型训练**：禁止将 API 用于大规模模型训练或商用项目。
-
-
 
 ## GPT_API_free
 

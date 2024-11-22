@@ -154,7 +154,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://tuwwzs.pages.dev/file/1729082334918_result_256x256.ico
+  img: /favicon.ico
   effect: false
 
 # Disable all banner image

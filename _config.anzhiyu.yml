@@ -35,10 +35,10 @@ nav:
       item:
         - name: 博客
           link: https://blog.wwzs.fun/
-          icon: /favicon.ico
+          icon: /images/favicon.ico
         - name: 个人主页
           link: https://wwzs.fun/
-          icon: /favicon.ico
+          icon: /images/favicon.ico
     - title: 服务
       item:
         - name: 万物之时云盘
@@ -150,11 +150,11 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /favicon.ico
+favicon: /images/favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: /favicon.ico
+  img: /images/favicon.ico
   effect: false
 
 # Disable all banner image
@@ -811,7 +811,7 @@ preloader:
   # else all
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url: /favicon.ico
+  pace_css_url: /images/favicon.ico
 
 # aside (侧边栏)
 # --------------------------------------

@@ -5,7 +5,7 @@ categories:
 copyright_author: ''
 copyright_author_href: ''
 copyright_url: ''
-cover: https://tuwwzs.pages.dev/file/1732075766383_.png
+cover: https://tu.126330.xyz/file/1732075766383_.png
 date: '2024-11-20T11:56:31.663980+08:00'
 description: 通过修改本地 hosts 文件，试图解决：  - GitHub 访问速度慢的问题 - GitHub 项目中的图片显示不出的问题
 keywords: GitHub，加速，hosts

@@ -1,6 +1,6 @@
 - class_name: 关于页
   subtitle: 一个爱折腾的小菜鸡
-  avatarImg: https://tuwwzs.pages.dev/file/1729082334918_result_256x256.ico
+  avatarImg: https://tu.126330.xyz/file/1729082334918_result_256x256.ico
   avatarSkills:
     left:
       - 📚 不断学习新知者
@@ -94,8 +94,8 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，廊坊
-    background: https://tuwwzs.pages.dev/file/1730015798927_Clip_2024-10-27_15-56-10.png
-    backgroundDark: https://tuwwzs.pages.dev/file/1730015803049_image.png
+    background: https://tu.126330.xyz/file/1730015798927_Clip_2024-10-27_15-56-10.png
+    backgroundDark: https://tu.126330.xyz/file/1730015803049_image.png
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2003
@@ -106,8 +106,8 @@
   personalities:
     author_name: 逻辑学家
     personality_type: TNPT-A
-    photo_url: https://tuwwzs.pages.dev/file/1730015803049_image.png
-    personality_img: https://tuwwzs.pages.dev/file/1731934114787_TNPT-A.svg
+    photo_url: https://tu.126330.xyz/file/1730015803049_image.png
+    personality_img: https://tu.126330.xyz/file/1731934114787_TNPT-A.svg
     name_url: https://www.16personalities.com/ch/intp-%E4%BA%BA%E6%A0%BC
   
   maxim:
@@ -129,19 +129,19 @@
     comic_list:
       - name: Re：创造主
         href: https://www.bilibili.com/bangumi/media/md5998/
-        cover: https://tuwwzs.pages.dev/file/1731932901682_3944fe0b84a5763cde6b0573773b89ba86b4321d.jpg@282w_375h.webp
+        cover: https://tu.126330.xyz/file/1731932901682_3944fe0b84a5763cde6b0573773b89ba86b4321d.jpg@282w_375h.webp
       - name: 咒术回战
         href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
         cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
       - name: 小林家的龙女仆
         href: https://www.bilibili.com/bangumi/media/md5800/
-        cover: https://tuwwzs.pages.dev/file/1731932988462_c72a95c3cae82f58f8fa25facd40960aa2003d26.png@282w_375h.webp
+        cover: https://tu.126330.xyz/file/1731932988462_c72a95c3cae82f58f8fa25facd40960aa2003d26.png@282w_375h.webp
       - name: 鬼灭之刃
         href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
         cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
       - name: NO GAME NO LIFE 游戏人生
         href: https://www.bilibili.com/bangumi/media/md184/
-        cover: https://tuwwzs.pages.dev/file/1731933079955_375h.webp
+        cover: https://tu.126330.xyz/file/1731933079955_375h.webp
   like:
     like_tips: 关注偏好
     like_title: 数码科技
@@ -150,7 +150,7 @@
   music:
     music_tips: 音乐偏好
     music_title: 周深、小少焱、喊麦、民谣、华语流行
-    music_bg: https://tuwwzs.pages.dev/file/1731984797118_PixPin_2024-11-18_20-24-22.png
+    music_bg: https://tu.126330.xyz/file/1731984797118_PixPin_2024-11-18_20-24-22.png
     music_link: /music
   # reward_list:
   #   - name: 海阔蓝

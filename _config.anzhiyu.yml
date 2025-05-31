@@ -16,8 +16,8 @@ menu:
   #   小空调: /air-conditioner/ || anzhiyu-icon-fan
   
    服务:
-    万物之时云盘: https://pan.126330.xyz || https://tuwwzs.pages.dev/file/1731940929061_云盘上传.svg
-    万物之时图床: https://1.126330.xyz || https://tuwwzs.pages.dev/file/1731941137476_系统工具-图床工具-copy.svg
+    万物之时云盘: https://pan.126330.xyz || https://tu.126330.xyz/file/1731940929061_云盘上传.svg
+    万物之时图床: https://1.126330.xyz || https://tu.126330.xyz/file/1731941137476_系统工具-图床工具-copy.svg
     
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
@@ -43,10 +43,10 @@ nav:
       item:
         - name: 万物之时云盘
           link: https://pan.126330.xyz/
-          icon: https://tuwwzs.pages.dev/file/1731940929061_云盘上传.svg
+          icon: https://tu.126330.xyz/file/1731940929061_云盘上传.svg
         - name: 万物之时图床
           link: https://1.126330.xyz/
-          icon: https://tuwwzs.pages.dev/file/1731941137476_系统工具-图床工具-copy.svg
+          icon: https://tu.126330.xyz/file/1731941137476_系统工具-图床工具-copy.svg
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
 mourn:
@@ -260,10 +260,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://tuwwzs.pages.dev/file/1731909320668_.png
+    - img: https://tu.126330.xyz/file/1731909320668_.png
       link:
       text: 微信
-    - img: https://tuwwzs.pages.dev/file/1731909426446_.png
+    - img: https://tu.126330.xyz/file/1731909426446_.png
       link:
       text: 支付宝
 
@@ -812,7 +812,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://tuwwzs.pages.dev/file/1729082334918_result_256x256.ico # 自定加载动画义头像
+  avatar: https://tu.126330.xyz/file/1729082334918_result_256x256.ico # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------

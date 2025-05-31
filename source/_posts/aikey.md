@@ -7,7 +7,7 @@ comments: true
 copyright_author: ''
 copyright_author_href: ''
 copyright_url: ''
-cover: https://tuwwzs.pages.dev/file/1732021061730_.png
+cover: https://tu.126330.xyz/file/1732021061730_.png
 date: '2024-11-19T20:09:58.069054+08:00'
 description: ''
 keywords: API Key

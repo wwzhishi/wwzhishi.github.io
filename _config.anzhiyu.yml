@@ -811,7 +811,7 @@ preloader:
   # else all
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
-  pace_css_url: /images/favicon.ico
+  pace_css_url: https://tu.126330.xyz/file/1729082334918_result_256x256.ico
 
 # aside (侧边栏)
 # --------------------------------------
